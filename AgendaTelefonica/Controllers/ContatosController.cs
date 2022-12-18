@@ -9,6 +9,8 @@ using System.Web.Mvc;
 using AgendaTelefonica.Data;
 using AgendaTelefonica.Models;
 
+//ALO
+
 namespace AgendaTelefonica.Controllers
 {
     public class ContatosController : Controller
